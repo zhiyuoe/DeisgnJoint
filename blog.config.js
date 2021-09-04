@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'DesignJoint',
-  author: 'ZhiyuBai',
+  author: '加号君',
   email: 'zhiyuoe@gmail.com',
   link: 'https://deisgn-joint.vercel.app/', // to be replaced.
   description: 'Design joint',
