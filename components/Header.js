@@ -69,7 +69,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a>
               <div className="h-6">
-                <img src="favicon.svg"></img>
+                <img width="24px" src="favicon.svg"></img>
               </div>
             </a>
           </Link>
