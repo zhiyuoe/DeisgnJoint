@@ -2,7 +2,7 @@ const BLOG = {
   title: 'DesignJoint',
   author: 'ZhiyuBai',
   email: 'zhiyuoe@gmail.com',
-  link: 'https://nobelium.vercel.app', // to be replaced.
+  link: 'https://deisgn-joint.vercel.app/', // to be replaced.
   description: 'Design joint',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -16,8 +16,8 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart', // to be replaced
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app/Design%20Joint.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg', // The link to generate OG image, don't end with a slash
+  socialLink: '', // to be replaced
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
